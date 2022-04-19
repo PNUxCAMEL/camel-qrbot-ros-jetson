@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>camel-qrbot-ros-xavier</name>
+  <name>camel-qrbot-ros-jetson</name>
   <version>0.0.0</version>
-  <description>The camel-qrbot-ros-xavier package</description>
+  <description>The camel-qrbot-ros-jetson package</description>
 
   <maintainer email="hs@todo.todo">hs</maintainer>
 
